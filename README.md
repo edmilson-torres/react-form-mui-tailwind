@@ -1,13 +1,14 @@
 # Sign In form
 
 ## 🔖 About
-Project made to study the use of Tailwind CSS for layout and MUI for components
+Project made to study the use of Tailwind CSS for layout and MUI for components.  
+Used Formik to assemble the form and Yup to validate using schema.
 
 ## 📚 Packages:
-* Formik: build forms
-* Yup: schema builder for value parsing and validation
-* MUI: React UI framework
-* Tailwind CSS: utility-first CSS framework
+* Formik: build forms.
+* Yup: schema builder for value parsing and validation.
+* MUI: React UI framework.
+* Tailwind CSS: utility-first CSS framework.
 
 ## Available Scripts
 
